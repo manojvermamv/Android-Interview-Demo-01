@@ -4,6 +4,11 @@ This project is a demonstration of **Android Interview Demo 01** in Kotlin, impl
 ## Download
 - For debug build, please go to [Github Releases page](https://github.com/manojvermamv/Android-Interview-Demo-01/releases)
 
+## Screenshots
+<div align="center">
+    <img alt="none" src="/screenshots/screen1.jpg" width="1080"/>
+</div>
+
 ## **Android Interview Demo Overview**
 As part of the interview process, the interviewer would like to assess your coding skills. To do this, they will ask you to submit a short demonstration.
 
