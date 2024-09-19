@@ -6,7 +6,7 @@ This project is a demonstration of **Android Interview Demo 01** in Kotlin, impl
 
 ## Screenshots
 <div align="center">
-    <img alt="none" src="/screenshots/screen1.png" width="500"/>
+    <img alt="none" src="/screenshots/screen1.png" width="200"/>
 </div>
 
 ## **Android Interview Demo Overview**
